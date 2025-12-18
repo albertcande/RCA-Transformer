@@ -25,7 +25,7 @@ Leveraging the power of advanced AI models (Google Gemini, GPT-4o, Llama 3, etc.
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/rca-transformer.git
+    git clone https://github.com/albertcande/rca-transformer.git
     cd rca-transformer
     ```
 
@@ -75,4 +75,5 @@ Leveraging the power of advanced AI models (Google Gemini, GPT-4o, Llama 3, etc.
 ## License
 
 [MIT License](LICENSE)
+
 
