@@ -1,6 +1,6 @@
 # RCA Transformer
 
-RCA Transformer is a powerful tool designed to help Customer Reliability Engineers and DevOps professionals generate high-quality, customer-facing Root Cause Analysis (RCA) documents from raw technical inputs.
+RCA Transformer is a tool designed to help Customer Reliability Engineers and DevOps professionals generate high-quality, customer-facing Root Cause Analysis (RCA) documents from raw technical inputs.
 
 Leveraging the power of advanced AI models (Google Gemini, GPT-4o, Llama 3, etc.), this application transforms technical jargon into clear, professional, and empathetic communication suitable for stakeholders and customers.
 
@@ -75,3 +75,4 @@ Leveraging the power of advanced AI models (Google Gemini, GPT-4o, Llama 3, etc.
 ## License
 
 [MIT License](LICENSE)
+
