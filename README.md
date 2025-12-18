@@ -59,6 +59,8 @@ Leveraging the power of advanced AI models (Google Gemini, GPT-4o, Llama 3, etc.
 2.  **Access the interface:**
     Open your browser and navigate to `http://127.0.0.1:8000`.
 
+<img width="1622" height="1237" alt="image" src="https://github.com/user-attachments/assets/c0f06d79-e4ac-4a75-a689-26ce8a27252d" />
+
 3.  **Generate an RCA:**
     -   Enter the Incident Title and Date.
     -   Provide raw technical details for Impact, Root Cause, Resolution, and Remediations.
@@ -75,5 +77,6 @@ Leveraging the power of advanced AI models (Google Gemini, GPT-4o, Llama 3, etc.
 ## License
 
 [MIT License](LICENSE)
+
 
 
